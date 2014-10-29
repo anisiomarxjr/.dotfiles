@@ -1,1 +1,1 @@
-sudo mount -t cifs -o username=junior,uid=1000,password=B0urne! $1 $2
+sudo mount -t cifs -o username=junior,uid=1000,password=$AD_PASSWD $1 $2
